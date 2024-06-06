@@ -1,0 +1,67 @@
+[
+    {
+      "icecream": "Vanilla",
+      "description": "Classic creamy flavor",
+      "price": 5.99
+    },
+    {
+      "icecream": "Chocolate",
+      "description": "Rich and indulgent",
+      "price": 6.49
+    },
+    {
+      "icecream": "Strawberry",
+      "description": "Sweet and fruity",
+      "price": 4.99
+    },
+    {
+      "icecream": "Mint Chocolate Chip",
+      "description": "Refreshing mint with chocolate chunks",
+      "price": 7.99
+    },
+    {
+      "icecream": "Cookies and Cream",
+      "description": "Crunchy cookie bits in creamy base",
+      "price": 5.49
+    },
+    {
+      "icecream": "Salted Caramel",
+      "description": "Buttery caramel with a hint of salt",
+      "price": 6.99
+    },
+    {
+      "icecream": "Pistachio",
+      "description": "Nutty and delightful",
+      "price": 8.49
+    },
+    {
+      "icecream": "Rocky Road",
+      "description": "Chocolate, marshmallows, and nuts",
+      "price": 5.79
+    },
+    {
+      "icecream": "Matcha Green Tea",
+      "description": "Earthy and slightly sweet",
+      "price": 9.99
+    },
+    {
+      "icecream": "Raspberry Sorbet",
+      "description": "Tangy and refreshing",
+      "price": 4.49
+    },
+    {
+      "icecream": "Blueberry Cheesecake",
+      "description": "Creamy cheesecake with blueberry swirls",
+      "price": 10.49
+    },
+    {
+      "icecream": "Coconut",
+      "description": "Tropical and creamy",
+      "price": 4.29
+    },
+    {
+      "icecream": "Hazelnut",
+      "description": "Rich and nutty",
+      "price": 11.49
+    }
+  ]
