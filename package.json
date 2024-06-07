@@ -1,0 +1,25 @@
+{
+  "name": "sd23-p04-javascript-tussentoets-b1h-mkleijwegt",
+  "version": "1.0.0",
+  "description": "1.\tMaak een mongo database met Atlas of Mongo Community Server. (2 punten)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ROCMondriaanTIN/sd23-p04-javascript-tussentoets-b1h-mkleijwegt.git"
+  },
+  "author": "kleijwegt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ROCMondriaanTIN/sd23-p04-javascript-tussentoets-b1h-mkleijwegt/issues"
+  },
+  "homepage": "https://github.com/ROCMondriaanTIN/sd23-p04-javascript-tussentoets-b1h-mkleijwegt#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0"
+  }
+}
